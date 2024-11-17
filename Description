@@ -1,0 +1,12 @@
+📊 HR Analytics Project
+This project focuses on analyzing HR data to provide insights for effective employee management and decision-making. The dataset used in this analysis includes various factors such as employee demographics, performance, satisfaction levels, and more.
+
+📝 Project Objectives:
+Analyze employee data to uncover trends and patterns.
+Identify factors influencing employee attrition.
+Understand the relationship between employee satisfaction and performance.
+Provide actionable insights for improving employee engagement and reducing turnover.
+🛠️ Key Features:
+Data Cleaning and Preprocessing:
+Handled missing values and inconsistencies in the dataset.
+Standardized data formats for better analysis.
